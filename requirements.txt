@@ -1,0 +1,5 @@
+python-twitter
+pymysql
+sqlalchemy
+sqlalchemy_utils
+pyyaml

@@ -1,0 +1,9 @@
+consumer_key: ALPHA_NUMERIC_STRING_69
+consumer_secret: ANOTHER_ALPHA_NUM_STRING_420
+access_token_key: USERID-ANOTHER_ALPHA_NUM_STRING_666
+access_token_secret: FINAL_ALPHA_NUM_STRING_0
+
+sqlalchemy.url: mysql+pymysql://generic_user:P@sSw0rd@localhost/bookmarks_db
+
+
+
